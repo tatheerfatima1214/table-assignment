@@ -1,0 +1,38 @@
+
+---- Processing WordPress Page - for Gutenberg ---- "1249"
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/02/bg-01-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/02/bg-01-free-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/02\/bg-01-free-img.jpg","id":0}
+Inserted - Post 1250 - attachment - bg-01-free-img.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/duaa/demo/wp-content/uploads/2021/03/bg-01-free-img.jpg
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/background1.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/background1.jpg
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/10\/background1.jpg","id":0}
+Inserted - Post 1251 - attachment - background1.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/duaa/demo/wp-content/uploads/2021/03/background1.jpg
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/5stars-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/5stars-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/10\/5stars-free-img.png","id":0}
+Inserted - Post 1252 - attachment - 5stars-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/duaa/demo/wp-content/uploads/2021/03/5stars-free-img.png
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-01.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-01.jpg
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/10\/online-programming-course-review-01.jpg","id":0}
+Inserted - Post 1253 - attachment - online-programming-course-review-01.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/duaa/demo/wp-content/uploads/2021/03/online-programming-course-review-01.jpg
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-02.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-02.jpg
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/10\/online-programming-course-review-02.jpg","id":0}
+Inserted - Post 1254 - attachment - online-programming-course-review-02.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/duaa/demo/wp-content/uploads/2021/03/online-programming-course-review-02.jpg
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-03.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-03.jpg
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/10\/online-programming-course-review-03.jpg","id":0}
+Inserted - Post 1255 - attachment - online-programming-course-review-03.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/duaa/demo/wp-content/uploads/2021/03/online-programming-course-review-03.jpg
+Source - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-04.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-courses-08/wp-content/uploads/sites/722/2020/10/online-programming-course-review-04.jpg
+Log - {"url":"https:\/\/websitedemos.net\/online-courses-08\/wp-content\/uploads\/sites\/722\/2020\/10\/online-programming-course-review-04.jpg","id":0}
+Inserted - Post 1256 - attachment - online-programming-course-review-04.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/duaa/demo/wp-content/uploads/2021/03/online-programming-course-review-04.jpg
+Complete 
